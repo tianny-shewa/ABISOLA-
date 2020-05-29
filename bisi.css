@@ -84,7 +84,8 @@ a{
    margin:25px;
    font-family:serif;
    font-size:12px;
-   display:inline-block  ;
+   display:flex ;
+   jusify-content:center;
    color:blue;
 
     
