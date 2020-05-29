@@ -2,7 +2,8 @@ body {
     margin:0;
     padding:0;
     font-family:san-serif;  
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFKJrPzpOQSC8gNsawF9ahC-NdYQXcW4fW6NKu0CoXsdExjxdq&usqp=CAU);
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTU7fJ60ruafEIBaw-hPqpTpXdPZQuWmE5yAcZxpzk-0V7czGVP&usqp=CAU
+);
   background-repeat: no-repeat;
   background-size: cover;
   background-position:center ;
@@ -81,7 +82,7 @@ i{
     color:black;
 }
 a{
-   margin-top:15px;
+   margin-top:30%;
    font-family:serif;
    font-size:12px;
    display:flex ;
