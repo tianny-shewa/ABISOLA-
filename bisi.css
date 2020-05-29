@@ -24,9 +24,9 @@ li{
         margin-top:10px 
  }
 
-center {
-    margin-top:100px;
-}
+
+  
+
  .blue{
      color:blue;
      font-weight:80%;
@@ -54,7 +54,7 @@ center {
      font-size:45px;
  }
 center {
-     margin-top:120px;
+     margin-top:200px;
  }
 input{
     padding:10px;
@@ -81,7 +81,7 @@ i{
     color:black;
 }
 a{
-   margin-right:15px;
+   margin-top:15px;
    font-family:serif;
    font-size:12px;
    display:flex ;
