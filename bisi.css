@@ -62,7 +62,7 @@ input{
     font-size:10px;
     border:1px solid ;
     background:#f1f1f1;
-    margin-top:20px;
+    margin-top:20%;
     align-item: center;
 
     
@@ -76,7 +76,7 @@ input{
     width:10%;
     color:grey;
     background:blue;
-    margin-top:20px;
+    margin-top:20%;
 }
 i{
     font-size:10px;
@@ -88,6 +88,7 @@ a{
    font-family:serif;
    font-size:12px;
    display: inline-block;
+   text-align:center;
    
    color:blue;
 }
