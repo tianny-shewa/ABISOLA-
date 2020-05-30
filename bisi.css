@@ -56,7 +56,7 @@ center {
      margin-top:210px;
  }
 input{
-    padding-left:7px;
+    padding:10px;
     width:60%;
     float: right;
     font-size:10px;
@@ -68,7 +68,7 @@ input{
     
 }
  button {
-    padding-left:7px;
+    padding:10px;
     float:right ;
     position:absolute ;
     font-size:10px;
