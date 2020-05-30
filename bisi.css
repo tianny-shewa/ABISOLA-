@@ -56,7 +56,7 @@ center {
      margin-top:210px;
  }
 input{
-    padding-left:7px;
+    padding:15px;
     width:60%;
     float: right;
     font-size:10px;
@@ -82,7 +82,7 @@ i{
 }
 a{
    margin-top:30px;
-   padding-left:15px;
+   padding-left:7px;
    font-family:serif;
    font-size:12px;
    display: inline-block;
