@@ -63,7 +63,7 @@ input{
     border:1px solid ;
     background:#f1f1f1;
     margin-top:30%;
-    align-item: center;
+    
 }
  button {
     padding:15px;
@@ -81,8 +81,8 @@ i{
     color:black;
 }
 a{
-   margin-top:30px;
-   padding-left:7px;
+   margin-top:20%;
+   padding-left:5px;
    font-family:serif;
    font-size:12px;
    display: inline-block;
